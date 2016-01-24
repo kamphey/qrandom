@@ -36,7 +36,7 @@ $counter = count($xml->url);
 		<!--End Button-->
 
 		<!--One sentence pitch-->
-		<h2>to discover a <b>random website</b></h2>
+		<h2>to discover a <b>random video</b></h2>
 		<!--End One sentence pitch-->
 
 		<!--Counter, automatically shows how many websites you have in your urls.xml file-->
@@ -44,7 +44,7 @@ $counter = count($xml->url);
 			<?php
 				echo $counter
 			?>
-			Websites served
+			Videos in our database
 		</p>
 		<!--End Counter-->
 

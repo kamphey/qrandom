@@ -1,8 +1,8 @@
 body{
 	margin:0;
-	font-family: 'Open Sans', sans-serif;
-	background-color: #FDFEFF;
-	border-top: 6px solid #41EE6A;
+	font-family: 'Special Elite', sans-serif;
+	background-color: #CDD3B8;
+	border-top: 6px solid #EF3E42;
 }
 
 
@@ -31,13 +31,13 @@ h2{
 	margin-top: 40px;
 	font-weight: 100;
 	font-size:26px;
-	color: #a09ea3;
+	color: #807F83;
 	padding-left: 5px;
 	padding-right: 5px;
 }
 
 #mainButton{
-	background-color: #41EE6A;
+	background-color: #EF3E42;
 	color: white;
 	font-size: 34px;
 	padding:22px;
@@ -52,7 +52,7 @@ h2{
 }
 
 #mainButton:hover{
-	background-color: #ec5f20;
+	background-color: #807F83;
 	cursor: pointer;
 	
     margin: 10px;
