@@ -1,0 +1,35 @@
+### Instructions ###
+
+
+[ Q ] - What files does my package include and what does each file do?
+
+index.php
+This is your homepage. This file includes some of the php code (that you don't have to change) and all the HTML that makes up your page.
+
+style.css
+This file contains all the styling 
+
+animate.css
+This file contains pre-written animations that you can use on your website. Currently it's being used on the main call to action button, generating the jelly animated effect. To learn more about how to use these animations, go to https://daneden.github.io/animate.css/
+
+urls.xml
+This is the file that contains the list of your website. The index.php file will grab a random website from the list of URLs it can find in this urls.xml file.
+
+-------------------------------------------------------
+
+[ Q ] - How do I get started?
+
+1. Open index.php in a notepad/text or code editor
+2. The main things for you to change are: "the one sentence pitch", "the email address in the footer" and "the title of the webpage". We've labeled the index.php so you should have no trouble finding your way through the code and understand what each part does.
+3. Then open urls.xml
+4. Add website, by simply copying the block between the <url> </url> tags and enter a new url
+5. Upload all the files to a server (php doesn't work locally, unless you are running a server so the easiest way is to upload the files online to a php enabled server and run your webpage)
+6. Done!
+7. Play around with the index.php, add more text, images, etc.
+8. Work on the styling in the style.css page and give your website a more unique look n feel
+
+-------------------------------------------------------
+
+[ Q ] - If I have a question, who can I contact?
+
+Send us an email at random@jibly.com with your question, we'll get back to you asap.
