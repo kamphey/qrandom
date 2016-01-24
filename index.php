@@ -35,11 +35,15 @@ $counter = count($xml->url);
 
 		<!--One sentence pitch-->
 		<h2>to discover a 
-		<br />random <div class="rw-words rw-words-1"> 
-	<span>Amazing</span>
-	<span>Inspiring</span>
-	<span>Mind-Blowing</span>
-	<span>Funny</span> </div>
+		<br />random 
+		<br /><div class="rw-words rw-words-1"> 
+	<span>amazing</span>
+	<span>inspiring</span>
+	<span>mind-blowing</span>
+	<span>funny</span> 
+	<span>awesome</span>
+	<span>cool</span>
+	</div>
 	<br /> video</h2>
 		<!--End One sentence pitch-->
 
