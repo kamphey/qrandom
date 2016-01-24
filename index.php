@@ -11,7 +11,7 @@ $counter = count($xml->url);
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<link rel="stylesheet" type="text/css" href="animate.css">
-	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Special+Elite' rel='stylesheet' type='text/css'>
 	<meta name="viewport" content="width=device-width, initial-scale=0.8">
 
 </head>
@@ -19,9 +19,7 @@ $counter = count($xml->url);
 
 	<div id="content">
 
-		<!--Built With RNDMYZER-->
-		<a href="http://rndmyzer.com"><img class="animated slideInLeft" id="builtwith" src="builtwith.png"></a>
-		<!--End Built With RNDMYZER-->
+
 
 		<!--Logo-->
 		<img id="logo" src="yourlogo.png">
@@ -50,7 +48,7 @@ $counter = count($xml->url);
 
 		<!--Footer-->
 		<div id="footer">
-			<a href="mailto:akamphey@qyoutv.com" id="submit">+ Submit website</a>
+			<a href="mailto:submissions@qyoutv.com" id="submit">+ Submit A Video</a>
 		</div>
 		<!--End Footer-->
 

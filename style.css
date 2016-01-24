@@ -1,7 +1,7 @@
 body{
 	margin:0;
 	font-family: 'Special Elite', sans-serif;
-	background-color: #CDD3B8;
+	background-color: #807F83;
 	border-top: 6px solid #EF3E42;
 }
 
@@ -22,6 +22,8 @@ body{
 }
 
 #logo{
+	display: block;
+	margin: 0 auto;
 	max-width: 80%;
 	margin-top: 30px;
 	opacity: 0.7;
@@ -52,7 +54,7 @@ h2{
 }
 
 #mainButton:hover{
-	background-color: #807F83;
+	background-color: #F2E18B;
 	cursor: pointer;
 	
     margin: 10px;
@@ -72,14 +74,14 @@ h2{
 	height:50px;
 	width: 100%;
 	background-color: white;
-	border-top: solid 1px #dde5e7;
+	border-top: solid 1px #EF3E42;
 	padding-left: 10px;
 	padding-right: 10px;
 }
 
 
 #submit{
-	color: #a09ea3;
+	color: #EF3E42;
 	position: absolute;
 	right:30px;
 	bottom:15px;
@@ -89,7 +91,7 @@ h2{
 }
 
 #submit:hover{
-	color: #41EE6A;
+	color: #807F83;
 	text-decoration: underline;
 }
 
