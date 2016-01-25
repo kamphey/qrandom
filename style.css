@@ -44,6 +44,7 @@ body{
 .rw-sentence span{
 	font-size: 100%;
 	font-weight: normal;
+	top: 75px; left: 0; right: 0;
 }
 .rw-words{
 	display: inline;

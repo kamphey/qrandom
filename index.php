@@ -17,7 +17,7 @@ $counter = count($xml->url);
 </head>
 <body>
 
-	<div id="content" class="rw-wrapper">
+	<div id="content">
 
 
 
@@ -34,7 +34,7 @@ $counter = count($xml->url);
 		<!--End Button-->
 
 		<!--One sentence pitch-->
-		<h2 class="rw-sentence"><span>to discover</span>
+		<h2><span>to discover</span>
 		<br /><span>a random</span>
 		<br /><div class="rw-words rw-words-1"> 
 	<span>amazing</span>
