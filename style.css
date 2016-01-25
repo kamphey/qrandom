@@ -38,11 +38,10 @@ body{
 }
 .rw-sentence{
 	margin: 0;
-	text-align: left;
+	text-align: center;
 	text-shadow: 1px 1px 1px rgba(255,255,255,0.8);
 }
 .rw-sentence span{
-	color: #444;
 	font-size: 200%;
 	font-weight: normal;
 }
