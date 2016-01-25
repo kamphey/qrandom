@@ -34,8 +34,8 @@ $counter = count($xml->url);
 		<!--End Button-->
 
 		<!--One sentence pitch-->
-		<h2>to discover
-		<br />a random
+		<h2><span>to discover</span>
+		<br /><span>a random</span>
 		<br /><div class="rw-words rw-words-1"> 
 	<span>amazing</span>
 	<span>inspiring</span>
@@ -44,7 +44,7 @@ $counter = count($xml->url);
 	<span>awesome</span>
 	<span>cool</span>
 	</div>
-	<br /> video</h2>
+	<br /><span>video</span></h2>
 		<!--End One sentence pitch-->
 
 		<!--Counter, automatically shows how many websites you have in your urls.xml file-->
